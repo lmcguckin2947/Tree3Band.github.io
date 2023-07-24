@@ -1,0 +1,40 @@
+html, body {
+    background-color: #DFD5A5;
+    margin: 0;
+}
+/**
+    #DFD5A5 - tan
+    #96897B - Dark Brown
+    #313715 - green
+    #AF1B3F - red
+**/
+
+#Title {
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    margin: 0%;
+
+}
+
+#Menu {
+    background-color: #313715;
+    position: relative;
+    top: 0;
+    width: 100%;
+    border: none;
+}
+
+.MenuButton:hover {
+    background-color: #DFD5A5;
+}
+
+button, input {
+    background-color: #313715;
+    border: none;
+}
+
+h2 {
+    color:#313715;
+}
+
