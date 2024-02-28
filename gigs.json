@@ -1,5 +1,13 @@
 [
   {
+    "Title": "My Way Bistro",
+    "Date": "2024-02-29",
+    "Time" : "6-9pm",
+    "Description": "Come enjoy great food with a great atomosphere.",
+    "LocationURL": "https://maps.app.goo.gl/hfGg8kmts4fsonSv7",
+    "WebsiteURL": "https://mywaybistro.takeout7.com/"
+  },
+  {
     "Title": "Acoustics for Autism",
     "Date": "2024-03-03",
     "Time" : "2:40-3:10pm",
@@ -46,13 +54,5 @@
     "Description": "Come enjoy great food with a great atomosphere.",
     "LocationURL": "https://maps.app.goo.gl/8DSAbiNS4QfHcPaMA",
     "WebsiteURL": "https://www.tekelacocina.com/"
-  },
-  {
-    "Title": "My Way Bistro",
-    "Date": "2024-02-29",
-    "Time" : "6-9pm",
-    "Description": "Come enjoy great food with a great atomosphere.",
-    "LocationURL": "https://maps.app.goo.gl/hfGg8kmts4fsonSv7",
-    "WebsiteURL": "https://mywaybistro.takeout7.com/"
   }
 ]
