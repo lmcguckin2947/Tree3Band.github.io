@@ -8,51 +8,59 @@
     "WebsiteURL": "https://mywaybistro.takeout7.com/"
   },
   {
-    "Title": "Acoustics for Autism",
+    "Title": "Acoustics For Autism",
     "Date": "2024-03-03",
     "Time" : "2:40-3:10pm",
-    "Description": "Watch Caroline McGuckin and Bobby May perform at Acoustics for Autism at the Village Idiot to benefit Project iAm!",
-    "LocationURL": "https://maps.app.goo.gl/aj1xHGBrHa7twuHAA",
-    "WebsiteURL": "https://acousticsforautism.com/"
+    "Description": "Come to the Village Idiot Stage for Caroline McGuckin and Bobby May to perform music for Project iAm!",
+    "LocationURL": "https://maps.app.goo.gl/QMQ6vZ7QpC7iTdae9",
+    "WebsiteURL": "https://villageidiotmaumee.com"
   },
   {
-    "Title": "Barrs Public House",
+    "Title": "Barr’s Public House",
     "Date": "2024-03-09",
     "Time" : "7-10pm",
-    "Description": "Come enjoy great food with a great atomosphere.",
-    "LocationURL": "https://maps.app.goo.gl/MuSHkGiT7GQDPgny6",
+    "Description": "Come to Barr’s Public House to enjoy a drink and Tree3 live music!",
+    "LocationURL": "https://maps.app.goo.gl/SMhcMjhFZnFTDJ2v7",
     "WebsiteURL": "https://barrspublichouse.com/location/"
   },
   {
-    "Title": "Buffalo Rock Brewing Company",
+    "Title": "The Man Cave with Jeff Lamb",
+    "Date": "2024-03-13",
+    "Time" : "6:30-9:30pm",
+    "Description": "Come in to the Man Cave with Jeff Lamb to listen to Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/PWXBxJLAVGnq164cA",
+    "WebsiteURL": "https://mancave-jefflamb.com"
+  },
+  {
+    "Title": "Buffalo Rock Brewery",
     "Date": "2024-03-14",
-    "Time" : "6-9pm",
-    "Description": "Come enjoy great food with a great atomosphere.",
-    "LocationURL": "https://maps.app.goo.gl/k9xrrz5N9smCtHdMA",
-    "WebsiteURL": "https://buffalorockbrewing.com/"
+    "Time" : "6:00-9:00pm",
+    "Description": "Come to Buffalo Rock in Waterville for a drink and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/KN9HTkj6GxQs6QEM7",
+    "WebsiteURL": "https://buffalorockbrewing.com"
   },
   {
-    "Title": "St.Patrick's Day Party At Barrs Public House",
+    "Title": "Barr's Public House",
     "Date": "2024-03-17",
-    "Time" : "10:30-1am",
-    "Description": "Come to Barrs Public House to Party with Tree3. Stick around for Barile and May playing from 1:30-4",
-    "LocationURL": "https://maps.app.goo.gl/MuSHkGiT7GQDPgny6",
+    "Time" : "10:30am-1:00pm",
+    "Description": "Come to Barr's Public House to celebrate St. Patrick's day and Tree3 live music!",
+    "LocationURL": "https://maps.app.goo.gl/SMhcMjhFZnFTDJ2v7",
     "WebsiteURL": "https://barrspublichouse.com/location/"
   },
   {
-    "Title": "Unc's patio in Chagrin",
+    "Title": "Uncs Patio Lounge",
     "Date": "2024-03-23",
-    "Time" : "6-9pm",
-    "Description": "Come enjoy great food with a great atomosphere.",
-    "LocationURL": "https://maps.app.goo.gl/vywppukuUrpU7BzK9",
-    "WebsiteURL": "https://www.facebook.com/UncsPatioLounge/"
+    "Time" : "6:00-9:00pm",
+    "Description": "Come to The Patio to enjoy great food and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/6NbGjx8YnpJNhUf88",
+    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
   },
   {
     "Title": "Te'kēla in Sylvania",
     "Date": "2024-03-30",
     "Time" : "6-9pm",
     "Description": "Come enjoy great food with a great atomosphere.",
-    "LocationURL": "https://maps.app.goo.gl/8DSAbiNS4QfHcPaMA",
-    "WebsiteURL": "https://www.tekelacocina.com/"
+    "LocationURL": "https://maps.app.goo.gl/KkY2rvjVkwSJC8hu8",
+    "WebsiteURL": "https://www.tekelacocina.com"
   }
 ]
