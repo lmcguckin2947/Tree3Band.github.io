@@ -5,7 +5,7 @@ $(document).ready(function(){
   });
 
 function parseGigs(gig) {
-    let date = new Date(gig.Date);
+    let date = new Date(gig.Date + "T00:00:00");
     let today = new Date();
     if (today.getTime() <= date.getTime()) {
         $(".wrapper").append(
