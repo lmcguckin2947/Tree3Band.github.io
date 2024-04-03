@@ -38,3 +38,57 @@ h2 {
     color:#313715;
 }
 
+.navbar {
+    background-color: #96897B;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: black;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.gallery {
+    grid-column: full;
+    display: grid;
+    grid-template-columns: inherit;
+    padding-block: var(--space-md);
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    /**scrollbar-width: none;**/
+}
+
+.item {
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+.gallery .wrapper {
+    grid-column: content;
+    display: flex;
+    align-items: center;
+    gap: var(--space);
+}
+
+.gallery .wrapper::after {
+    content: "";
+    align-self: stretch;
+    padding-inline-end: max(var(--space),
+            (100vw - var(--content-max-width)) / 2 - var(--space));
+}
+
+.gallery.alt-sizes .item.lg {
+    max-inline-size: 35rem;
+}
+
+.gallery.alt-sizes .item.sm {
+    max-inline-size: 15rem;
+}
