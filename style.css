@@ -1,5 +1,5 @@
 html, body {
-    background-color: #DFD5A5;
+    background-color: #fefae0;
     margin: 0;
 }
 /**
@@ -7,6 +7,7 @@ html, body {
     #96897B - Dark Brown
     #313715 - green
     #AF1B3F - red
+    #fefae0 - background
 **/
 
 #Title {
@@ -39,7 +40,7 @@ h2 {
 }
 
 .navbar {
-    background-color: #96897B;
+    background-color: #DFD5A5;
 }
 
 .navbar-toggler {
