@@ -9,60 +9,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script type="text/javascript" src="gigs.js"></script>
-    <script type="text/javascript" src="gigs.json"></script>  
-    <style>
-        body,
-        #navbar {
-            background-color: #fefae0;
-        }
-
-        .nav-item a {
-            text-decoration: none;
-            color: black;
-        }
-
-        .rtl {
-            direction: rtl;
-        }
-
-        .gallery {
-            grid-column: full;
-            display: grid;
-            grid-template-columns: inherit;
-            padding-block: var(--space-md);
-            overflow-x: scroll;
-            overscroll-behavior-x: contain;
-            scroll-snap-type: x proximity;
-            /**scrollbar-width: none;**/
-        }
-
-        .item {
-            padding-right: 2%;
-            padding-bottom: 2%;
-        }
-
-        .gallery .wrapper {
-            grid-column: content;
-            display: flex;
-            align-items: center;
-            gap: var(--space);
-        }
-
-        .gallery .wrapper::after {
-            content: "";
-            align-self: stretch;
-            padding-inline-end: max(var(--space),
-                    (100vw - var(--content-max-width)) / 2 - var(--space));
-        }
-
-        .gallery.alt-sizes .item.lg {
-            max-inline-size: 35rem;
-        }
-
-        .gallery.alt-sizes .item.sm {
-            max-inline-size: 15rem;
-        }
-    </style>
+    <script type="text/javascript" src="gigs.json"></script>
+    <link rel="stylesheet" href="style.css">
     <script>
 
         var root = document.documentElement;
@@ -89,7 +37,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top" id="navbar">
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" id="navbar">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -192,7 +140,7 @@
                     and Ekostik hookah. Together, Tree3 opened for Scotty McCreery and played with neumerous local artists.</p>
             </div>
             <div class="col">
-                <img src="images/caurasel/pre-scottyconcert.JPG" width="100%" style="margin-bottom: 5%;">
+                <img src="images/caurasel/pre-scottyconcert.JPG" width="100%" style="margin-bottom: 5%; margin-top: 5%;">
                 <img src="images/caurasel/scottySingin.jpeg" width="100%" style="margin-bottom: 5%;">
             </div>
         </div>
