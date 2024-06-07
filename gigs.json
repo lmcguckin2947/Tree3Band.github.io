@@ -31,20 +31,20 @@
     "LocationURL": "https://maps.app.goo.gl/Aahz3yHSS1cZXwB9A",
     "WebsiteURL": "https://www.tekelacocina.com"
   },
-  {
-    "Title": "Charlie's in Maumee",
-    "Date": "2024-06-30",
-    "Time" : "10am-1pm",
-    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
-    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
-    "WebsiteURL": "https://charliesoftoledo.com"
-  },
-  {
-    "Title": "Uncs Patio Lounge",
-    "Date": "2024-06-29",
-    "Time" : "6-9pm",
-    "Description": "Come to The Patio to enjoy great food and great live music!",
-    "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
-    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
-  }
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-06-30",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Uncs Patio Lounge",
+    "Date": "2024-06-29",
+    "Time" : "6-9pm",
+    "Description": "Come to The Patio to enjoy great food and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
+    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
+  }
 ]
