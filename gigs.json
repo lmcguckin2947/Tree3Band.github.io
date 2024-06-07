@@ -90,7 +90,7 @@
   {
     "Title": "Rose and Thistle",
     "Date": "2024-06-13",
-    "Time" : "5:00-8:00pm",
+    "Time" : "5-8pm",
     "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
     "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
     "WebsiteURL": "https://roseandthistlepub.com"
@@ -98,9 +98,41 @@
   {
     "Title": "Rose and Thistle",
     "Date": "2024-06-20",
-    "Time" : "5:00-8:00pm",
+    "Time" : "5-8pm",
     "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
     "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
     "WebsiteURL": "https://roseandthistlepub.com"
-  }
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-06-27",
+    "Time" : "5-8pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Te'kēla in Sylvania",
+    "Date": "2024-06-08",
+    "Time" : "6-9pm",
+    "Description": "Come enjoy great food with a great atomosphere.",
+    "LocationURL": "https://maps.app.goo.gl/Aahz3yHSS1cZXwB9A",
+    "WebsiteURL": "https://www.tekelacocina.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-06-30",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Uncs Patio Lounge",
+    "Date": "2024-06-29",
+    "Time" : "6-9pm",
+    "Description": "Come to The Patio to enjoy great food and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
+    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
+  }
 ]
