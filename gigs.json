@@ -86,5 +86,21 @@
     "Description": "Come enjoy great food with a great atomosphere.",
     "LocationURL": "https://maps.app.goo.gl/Aahz3yHSS1cZXwB9A",
     "WebsiteURL": "https://www.tekelacocina.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-06-13",
+    "Time" : "5:00-8:00pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-06-20",
+    "Time" : "5:00-8:00pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
   }
 ]
