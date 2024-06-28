@@ -46,5 +46,77 @@
     "Description": "Come to The Patio to enjoy great food and great live music!",
     "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
     "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
-  }
+  },
+  {
+    "Title": "Brandywine Country Club",
+    "Date": "2024-07-05",
+    "Time" : "6-9pm",
+    "Description": "The pool area at Brandywine Country Club is open to the public for all adults to enjoy tree3 live music, a drink, and a swim in the pool!",
+    "LocationURL": "hhttps://maps.app.goo.gl/KvAXBUDmbv8JR1S79",
+    "WebsiteURL": "https://www.brandywinecc.com/"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-07-07",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Levis Commons",
+    "Date": "2024-07-10",
+    "Time" : "11am-1pm",
+    "Description": "Tree3 will be playing live music in the center of Levis Commons!",
+    "LocationURL": "https://maps.app.goo.gl/kVBh7bhrFGcBMC6T6",
+    "WebsiteURL": "https://shopleviscommons.com/"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-07-11",
+    "Time" : "5-8pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-07-14",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-07-18",
+    "Time" : "5-8pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-07-21",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-07-25",
+    "Time" : "5-8pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-07-28",
+    "Time" : "10am-1pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
 ]
