@@ -8,7 +8,7 @@ function parseGigs(gig) {
     let date = new Date(gig.Date + "T00:00:00");
     let today = new Date();
     if (today.getTime() <= date.getTime()) {
-        $(".wrapper").append(
+        $(".wrapper.watch").append(
             `<div class="item">
                     <div class="card" style="width: 18rem; background-color:#fefae0">
                         <div class="card-body">

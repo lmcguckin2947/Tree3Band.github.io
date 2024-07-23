@@ -93,3 +93,8 @@ h2 {
 .gallery.alt-sizes .item.sm {
     max-inline-size: 15rem;
 }
+
+.btn-primary {
+    background-color: #343a16;
+    border: none;
+}
