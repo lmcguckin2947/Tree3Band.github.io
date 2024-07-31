@@ -159,21 +159,21 @@
     "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
     "WebsiteURL": "https://charliesoftoledo.com"
   },
-  { 
+  {
    "Title": "Buffalo Rock Brewery",
-    "Date": "2024-08-22",
-    "Time" : "6:00-9:00pm",
-    "Description": "Come to Buffalo Rock in Waterville for a drink and great live music!",
-    "LocationURL": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x883c737b064525db:0x32f8221420115f2f?entry=s&sa=X&ved=2ahUKEwj-m7zRmtGEAxUfg4kEHd2IDowQ4kB6BAgVEAA&hl=en-us",
-    "WebsiteURL": "https://buffalorockbrewing.com"
+    "Date": "2024-08-22",
+    "Time" : "6:00-9:00pm",
+    "Description": "Come to Buffalo Rock in Waterville for a drink and great live music!",
+    "LocationURL": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x883c737b064525db:0x32f8221420115f2f?entry=s&sa=X&ved=2ahUKEwj-m7zRmtGEAxUfg4kEHd2IDowQ4kB6BAgVEAA&hl=en-us",
+    "WebsiteURL": "https://buffalorockbrewing.com"
   },
   {
     "Title": "8th Day Brewing Co.",
-    "Date": "2024-08-24",
-    "Time" : "1:00-4:30pm",
-    "Description": "Come to watch the total solar eclipse here while listening to Tree3 music!",
-    "LocationURL": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x88311302a1f41ed7:0x6bbd09b59f79bb60?entry=s&sa=X&ved=2ahUKEwj2lbeYyuyEAxWJAHkGHbp-CEYQ4kB6BAgUEAA&hl=en-us",
-    "WebsiteURL": "https://www.8thdaybrewing.com"
+    "Date": "2024-08-24",
+    "Time" : "1:00-4:30pm",
+    "Description": "Come to watch the total solar eclipse here while listening to Tree3 music!",
+    "LocationURL": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x88311302a1f41ed7:0x6bbd09b59f79bb60?entry=s&sa=X&ved=2ahUKEwj2lbeYyuyEAxWJAHkGHbp-CEYQ4kB6BAgUEAA&hl=en-us",
+    "WebsiteURL": "https://www.8thdaybrewing.com"
   },
   { 
     "Title": "Charlie's in Maumee",
