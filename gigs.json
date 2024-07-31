@@ -118,6 +118,69 @@
     "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
     "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
     "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-08-01",
+    "Time" : "5:00-7:30pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Adventure Spirits Distilling",
+    "Date": "2024-08-10",
+    "Time" : "4:00-6:00pm",
+    "Description": "Tree3 will be playing live music for the grand opening of Adventure Spirits Distilling",
+    "LocationURL": "https://www.google.com/maps/dir/41.5465472,-83.6599808/adventures+distillery/@41.5255553,-83.8864721,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x883c6fb7337b0563:0xe3f6076c6c54ca0a!2m2!1d-83.8031598!2d41.5163747?entry=ttu",
+    "WebsiteURL": "https://adventurespiritsdistilling.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-08-11",
+    "Time" : "10:30am-1:30pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  {
+    "Title": "Rose and Thistle",
+    "Date": "2024-08-15",
+    "Time" : "5:00-7:30pm",
+    "Description": "Tree3 will be playing live music in front of The Rose and Thistle during the Perrysburg Farmers Market!",
+    "LocationURL": "https://maps.app.goo.gl/6JKpqWZ359DpfQaV6",
+    "WebsiteURL": "https://roseandthistlepub.com"
+  },
+  {
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-08-18",
+    "Time" : "10:30am-1:30pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
+  },
+  { 
+   "Title": "Buffalo Rock Brewery”,
+    "Date": "2024-08-22”,
+    "Time" : "6:00-9:00pm",
+    "Description": “Come to Buffalo Rock in Waterville for a drink and great live music!",
+    "LocationURL": “https://maps.google.com/maps/place//data=!4m2!3m1!1s0x883c737b064525db:0x32f8221420115f2f?entry=s&sa=X&ved=2ahUKEwj-m7zRmtGEAxUfg4kEHd2IDowQ4kB6BAgVEAA&hl=en-us",
+    "WebsiteURL": "https://buffalorockbrewing.com"
+  },
+  {
+    "Title": "8th Day Brewing Co.”,
+    "Date": "2024-08-24”,
+    "Time" : "1:00-4:30pm",
+    "Description": “Come to watch the total solar eclipse here while listening to Tree3 music!",
+    "LocationURL": “https://maps.google.com/maps/place//data=!4m2!3m1!1s0x88311302a1f41ed7:0x6bbd09b59f79bb60?entry=s&sa=X&ved=2ahUKEwj2lbeYyuyEAxWJAHkGHbp-CEYQ4kB6BAgUEAA&hl=en-us”,
+    "WebsiteURL": "https://www.8thdaybrewing.com"
+  },
+  { 
+    "Title": "Charlie's in Maumee",
+    "Date": "2024-08-18",
+    "Time" : "10:30am-1:30pm",
+    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
+    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
+    "WebsiteURL": "https://charliesoftoledo.com"
   }
-  
 ]
