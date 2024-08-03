@@ -23,3 +23,13 @@ function parseGigs(gig) {
         )
     }
 }
+
+function collapseNavbarAndScroll(section) {
+    // Collapse the navbar (assuming Bootstrap)
+    $('.navbar-collapse').collapse('hide');
+  
+    // Smooth scrolling to the #about section
+    $('html, body').animate({
+      scrollTop: $(section).offset().top
+    }, 500); // Adjust the animation duration as needed
+}
