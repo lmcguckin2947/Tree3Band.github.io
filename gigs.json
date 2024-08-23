@@ -168,19 +168,59 @@
     "WebsiteURL": "https://buffalorockbrewing.com"
   },
   {
-    "Title": "8th Day Brewing Co.",
+    "Title": "Te'kēla in Sylvania",
     "Date": "2024-08-24",
-    "Time" : "1:00-4:30pm",
-    "Description": "Come to watch the total solar eclipse here while listening to Tree3 music!",
-    "LocationURL": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x88311302a1f41ed7:0x6bbd09b59f79bb60?entry=s&sa=X&ved=2ahUKEwj2lbeYyuyEAxWJAHkGHbp-CEYQ4kB6BAgUEAA&hl=en-us",
-    "WebsiteURL": "https://www.8thdaybrewing.com"
+    "Time" : "6pm-9pm",
+    "Description": "Come enjoy great food with a great atomosphere.",
+    "LocationURL": "https://maps.app.goo.gl/Aahz3yHSS1cZXwB9A",
+    "WebsiteURL": "https://www.tekelacocina.com"
   },
-  { 
-    "Title": "Charlie's in Maumee",
-    "Date": "2024-08-18",
-    "Time" : "10:30am-1:30pm",
-    "Description": "Come enjoy great food on the patio with a side of Tree3 music!",
-    "LocationURL": "https://maps.app.goo.gl/jsgKyJWLiNMJUvPk9",
-    "WebsiteURL": "https://charliesoftoledo.com"
+  {
+    "Title": "Uncs Patio Lounge",
+    "Date": "2024-09-21",
+    "Time" : "7pm-10pm",
+    "Description": "Come to The Patio to enjoy great food and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
+    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
+  },
+  {
+    "Title": "Levis Commons",
+    "Date": "2024-09-10",
+    "Time" : "5pm-7pm",
+    "Description": "Tree3 and featured guests will be playing live music in the center of Levis Commons!",
+    "LocationURL": "https://maps.app.goo.gl/kVBh7bhrFGcBMC6T6",
+    "WebsiteURL": "https://shopleviscommons.com/"
+  },
+  {
+    "Title": "Local Thyme",
+    "Date": "2024-10-05",
+    "Time" : "6:30pm-10:30pm",
+    "Description": "Grab a drink and a great meal while enjoying Tree3 live music",
+    "LocationURL": "https://maps.app.goo.gl/sqiDgZLN7V5fFZrj7",
+    "WebsiteURL": "https://www.localthyme.pub/"
+  },
+  {
+    "Title": "Uncs Patio Lounge",
+    "Date": "2024-10-19",
+    "Time" : "7pm-10pm",
+    "Description": "Come to The Patio to enjoy great food and great live music!",
+    "LocationURL": "https://maps.app.goo.gl/PPRFLGcu2tfhBa7W9",
+    "WebsiteURL": "https://m.facebook.com/UncsPatioLounge"
+  },
+  {
+    "Title": "Te'kēla in Sylvania",
+    "Date": "2024-10-26",
+    "Time" : "6pm-9pm",
+    "Description": "Come enjoy great food with a great atomosphere.",
+    "LocationURL": "https://maps.app.goo.gl/Aahz3yHSS1cZXwB9A",
+    "WebsiteURL": "https://www.tekelacocina.com"
+  },
+  {
+    "Title": "Local Thyme",
+    "Date": "2024-11-16",
+    "Time" : "6:30pm-10:30pm",
+    "Description": "Grab a drink and a great meal while enjoying Tree3 live music",
+    "LocationURL": "https://maps.app.goo.gl/sqiDgZLN7V5fFZrj7",
+    "WebsiteURL": "https://www.localthyme.pub/"
   }
 ]
