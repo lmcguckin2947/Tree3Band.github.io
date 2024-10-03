@@ -28,29 +28,13 @@
             window.location.href = `mailto:tree3band@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodedMessage}`;
         }
     </script>
-    <script src="https://www.google.com/recaptcha/api.js"></script>
-
+    
     <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
     <link rel="manifest" href="favicon_io/site.webmanifest">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KN83X6ZDX8"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-KN83X6ZDX8');
-    </script>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-PHGN2MB7');</script>
-    <!-- End Google Tag Manager -->
 </head>
 
 <body>
@@ -253,10 +237,32 @@
                 <li class="nav-item"><a href="#watch" class="nav-link px-2 text-muted">Watch</a></li>
                 <li class="nav-item"><a href="#support" class="nav-link px-2 text-muted">Support</a></li>
                 <li class="nav-item"><a href="#contact" class="nav-link px-2 text-muted">Contact</a></li>
+                <li class="nav-item"><a href="#" onclick="showCookieBanner()" class="nav-link px-2 text-muted">Cookie Consent</a></li>
             </ul>
             <p class="text-center text-muted">© 2023 Tree3Band</p>
         </footer>
     </div>
+
+    <div class="modal fade" id="gaConsentModal" tabindex="-1" role="dialog" aria-labelledby="gaConsentModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="gaConsentModalLabel">We use Google Analytics</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p>We use Google Analytics to improve our website. By clicking "Accept", you consent to the use of cookies. Click "Decline" to opt-out.</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" id="declineGa">Decline</button>
+              <button type="button" class="btn btn-primary" id="acceptGa">Accept</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
